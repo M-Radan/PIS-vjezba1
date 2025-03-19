@@ -4,6 +4,8 @@ def nova_funkcija():
 def main():
     print("Hello world!")
 
+#ovo je moj komentar Ante Spajić
+
 if __name__ == "__main__":
     main()
 
