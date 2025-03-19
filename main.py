@@ -7,7 +7,7 @@ def main():
 
 #ovo je moj komentar Ante Spajić
 
-def nova_metoda():
+def nova_metoda_():
     return "Ovo je nova metoda 2."
 
 if __name__ == "__main__":
